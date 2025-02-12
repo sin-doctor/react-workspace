@@ -1,4 +1,4 @@
-function ChapNomalFunction() {
+function ChapNormalFunction() {
     function add(a, b) {
         return a + b;
     }
@@ -19,4 +19,4 @@ function ChapNomalFunction() {
 
 }
 
-export default ChapNomalFunction;
+export default ChapNormalFunction;
